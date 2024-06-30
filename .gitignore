@@ -7,3 +7,4 @@ arrondissements.json
 arrondissements.geojson
 ilots-de-fraicheur-espaces-verts-frais.geojson
 .ipynb_checkpoints/Notebook-checkpoint.ipynb
+*.png
